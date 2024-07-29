@@ -16,8 +16,7 @@ flutter:
         default_package: local_auth_android
       ios:
         default_package: local_auth_ios
-      windows:
-        default_package: local_auth_windows
+      
 
 dependencies:
   flutter:
