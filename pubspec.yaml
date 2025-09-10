@@ -16,10 +16,6 @@ flutter:
         default_package: local_auth_android
       ios:
         default_package: local_auth_darwin
-      macos:
-        default_package: local_auth_darwin
-      windows:
-        default_package: local_auth_windows
 
 dependencies:
   flutter:
@@ -27,7 +23,6 @@ dependencies:
   local_auth_android: ^1.0.0
   local_auth_darwin: ^1.4.0
   local_auth_platform_interface: ^1.0.1
-  local_auth_windows: ^1.0.0
 
 dev_dependencies:
   flutter_test:
